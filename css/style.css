@@ -5,8 +5,30 @@ body {
 h1 {
     color: chartreuse;
     border-bottom-style: dashed;
+    width: 400px;
+    margin: auto;
 }
 
 p {
     color:cadetblue;
+}
+
+div {
+    color: crimson;
+    border-width: 5px;
+    border-style: solid;
+    margin: auto;
+    padding: 40px;
+    padding-left: 0px;
+    width: 200px;
+
+    background-color: blue;
+}
+
+.fundoVioleta {
+    background-color: blueviolet;
+}
+
+#fonteBranca {
+    color: #fff;
 }
